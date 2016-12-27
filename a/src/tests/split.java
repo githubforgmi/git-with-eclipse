@@ -1,7 +1,7 @@
 package tests;
 
 public class split {
-
+//eclipse2 change
 	//c1 c2 c3 c4
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
