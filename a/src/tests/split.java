@@ -12,4 +12,5 @@ public class split {
 
 	}
 
+	Actions act = new Actions (driver);
 }
