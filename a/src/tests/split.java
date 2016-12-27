@@ -2,7 +2,7 @@ package tests;
 
 public class split {
 
-	//c1
+	//c1 c2
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
