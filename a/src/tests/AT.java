@@ -33,6 +33,7 @@ public class AT {
 		 //need to perform which action u wa
 		 
 		 // added syso cmd 
+		 // printer status
 		 
 		 
 		}
