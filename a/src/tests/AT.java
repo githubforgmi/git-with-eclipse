@@ -34,7 +34,7 @@ public class AT {
 		 
 		 // added syso cmd 
 		 // printer status
-		 // presentation 
+		 // for loop 
 		 
 		}
 		//if(count==95)
