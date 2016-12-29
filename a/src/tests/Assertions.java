@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 public class Assertions {
-	
+//test	
   @Test
   public void f() {
 	  
