@@ -30,7 +30,7 @@ public class AT {
 		 count++;
 		 System.out.println("count="+count+";"+" i="+i+";"+"k="+k);
 		 
-		 //need to perform which action u want 
+		 //need to perform which action u wa
 		 
 		}
 		//if(count==95)
